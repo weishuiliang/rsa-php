@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App\Lib;
+namespace Weishuiliang\RsaPhp;
 
 
 class Rsa

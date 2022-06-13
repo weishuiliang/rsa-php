@@ -1,5 +1,5 @@
 {
-    "name": "wsl/rsa-php",
+    "name": "weishuiliang/rsa-php",
     "description": "rsa工具php版本",
     "type": "library",
     "require": {
@@ -7,12 +7,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Wsl\\RsaPhp\\": "src/"
+            "Weishuiliang\\RsaPhp\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "wsl"
+            "name": "weishuiliang"
         }
     ]
 }
