@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'wsl/rsa-php',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'name' => 'weishuiliang/rsa-php',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '76b4cd3a99a5776c780e289cd3ed82fc809165dd',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'wsl/rsa-php' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+        'weishuiliang/rsa-php' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '76b4cd3a99a5776c780e289cd3ed82fc809165dd',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
