@@ -1,7 +1,7 @@
 <?php
 
 
-namespace RSA;
+namespace Weishuiliang\RsaPhp;
 
 
 class Rsa
