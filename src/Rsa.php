@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App\Lib;
+namespace RSA;
 
 
 class Rsa
