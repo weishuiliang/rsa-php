@@ -2,6 +2,7 @@
     "name": "weishuiliang/rsa-php",
     "description": "rsa工具php版本",
     "type": "library",
+    "license": "MIT",
     "require": {
         "ext-openssl": "*"
     },
